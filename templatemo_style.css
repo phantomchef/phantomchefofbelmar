@@ -20,7 +20,7 @@ a:link, a:visited { color: #cccc66; text-decoration: none}
 a:active, a:hover { color: #cccc66; text-decoration: underline}
 
 #templatemo_container_wrapper {
-	background: url(images/mainbackground.gif) repeat-x;
+	background: url(mainbackground.gif) repeat-x;
 }
 
 #templatemo_container {
@@ -34,7 +34,7 @@ a:active, a:hover { color: #cccc66; text-decoration: underline}
 
 #templatemo_header {
 	height: 251px;
-	background: #000000 url(images/phantom.jpg) right no-repeat;
+	background: #000000 url(phantom.jpg) right no-repeat;
 }
 
 #templatemo_site_title {
@@ -64,7 +64,7 @@ a:active, a:hover { color: #cccc66; text-decoration: underline}
 	height: 45px;
 	margin: 0px;
 	padding: 0px;
-	background: #434343 url(images/menubackground.gif) repeat-x;
+	background: #434343 url(menubackground.gif) repeat-x;
 }
 
 .templatemo_menu ul {
@@ -90,7 +90,7 @@ a:active, a:hover { color: #cccc66; text-decoration: underline}
 
 .templatemo_menu li a:hover, .templatemo_menu li .current{
 	color: #ffffff;
-	background: url(images/menuhover.gif) center center no-repeat;
+	background: url(menuhover.gif) center center no-repeat;
 }
 
 /* ----------------- end of menu----------------*/
@@ -134,7 +134,7 @@ a:active, a:hover { color: #cccc66; text-decoration: underline}
 	color: #999966;
 	line-height: 25px;
 	text-decoration: none;
-	background: url(images/list_icon.gif) no-repeat center left;
+	background: url(list_icon.gif) no-repeat center left;
 }
 #templatemo_bottom .section a:hover {
 	color: #cccc66;
@@ -145,7 +145,7 @@ a:active, a:hover { color: #cccc66; text-decoration: underline}
 	padding: 20px 40px;
 	width: 210px;	
 	height: 200px;
-	background: url(images/sectionleftborder.gif) left no-repeat;
+	background: url(sectionleftborder.gif) left no-repeat;
 }
 
 #templatemo_bottom .middlerightborder {
@@ -153,7 +153,7 @@ a:active, a:hover { color: #cccc66; text-decoration: underline}
 	padding: 20px 0px;
 	width: 16px;
 	height: 200px;
-	background: url(images/sectionrightborder.gif) left no-repeat;
+	background: url(sectionrightborder.gif) left no-repeat;
 }
 
 .text_area {
@@ -175,7 +175,7 @@ a:active, a:hover { color: #cccc66; text-decoration: underline}
 	padding-left: 30px;
 	font-size: 1.8em;	
 	color:#ffff66;
-	background: url(images/cup.gif) left center no-repeat;
+	background: url(cup.gif) left center no-repeat;
 }
 .subtitle{
 	padding-bottom: 10px;
@@ -201,7 +201,7 @@ a:active, a:hover { color: #cccc66; text-decoration: underline}
 	color: #999966;
 	line-height: 24px;
 	text-align:right;
-	background: #212121 url(images/footerbackground.gif) repeat-x;
+	background: #212121 url(footerbackground.gif) repeat-x;
 }
 #templatemo_footer a {
 	color: #999966;
